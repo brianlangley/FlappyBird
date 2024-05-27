@@ -18,7 +18,7 @@
 
 ### About project
 
-The goal of this project is to recreate Flappy Bird game using Phaser 3. The project is set up with Webpack for development and includes multiple HTML tutorial parts. The project demonstrates how to use ES6 modules with Phaser.
+The goal of this project is to recreate Flappy Bird game using Phaser 3. The project is set up with Webpack for development.
 
 ### Prerequisites
 
@@ -60,18 +60,6 @@ npm run start
   "build": "webpack"
 }
 ```
-
-#### Using `http-server` (optional)
-
-1. Install `http-server` globally (if not already installed):
-   ```bash
-   npm install -g http-server
-   ```
-
-2. Start the server from the project directory:
-   ```bash
-   http-server dist
-   ```
 
 ### Accessing the Project
 
